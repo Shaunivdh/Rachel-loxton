@@ -1,0 +1,61 @@
+{
+  "title": "WORKSHOPS",
+  "description": "Viverra tristique placerat massa est consectetur quisque nu fames WORKSHOP dolor sit amet consectetu.",
+  "portfolioItems": [
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "WORKSHOP",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "WORKSHOP",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "WORKSHOP",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "popup",
+        "number": 1
+      },
+      "description": {
+        "text": "WORKSHOP",
+        "caption": "Video"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "popup",
+        "number": 2
+      },
+      "description": {
+        "text": "WORKSHOP",
+        "caption": "Image"
+      }
+    }
+  ]
+}

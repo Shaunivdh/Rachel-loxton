@@ -1,0 +1,51 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "RACHEL LOXTON"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "classes",
+      "text": "Classes"
+    },
+    {
+      "to": "workshops",
+      "text": "Workshops"
+    },
+    {
+      "to": "term",
+      "text": "Term Dates"
+    },
+    {
+      "to": "testimonials",
+      "text": "Testimonials"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "#",
+      "text": "TH."
+    },
+    {
+      "to": "#",
+      "text": "IN."
+    },
+    {
+      "to": "#",
+      "text": "FB."
+    }
+  ]
+}

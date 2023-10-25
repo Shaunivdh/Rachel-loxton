@@ -1,0 +1,20 @@
+{
+  "title": "TERM DATES",
+
+  "description": "Viverra tristique placerat massa est consectetur quisque nu fames lorem",
+
+  "posts": [
+    {
+      "to": "/",
+      "title": "Winter term",
+      "date": "MAR 25, 2021",
+      "category": "winter term"
+    },
+    {
+      "to": "/",
+      "title": "Winter term",
+      "date": "FEB 2, 2021",
+      "category": "winter term"
+    }
+  ]
+}

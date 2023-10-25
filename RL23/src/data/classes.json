@@ -1,0 +1,61 @@
+{
+  "title": "CLASSES",
+  "description": "Viverra tristique placerat massa est consectetur quisque nu fames WORKSHOP dolor sit amet consectetu.",
+  "portfolioItems": [
+    {
+      "gridSize": "p-one-third",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "TIMETABLES",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-third",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "FEES",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-third",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "UNIFORM",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-third",
+      "action": {
+        "type": "popup",
+        "number": 1
+      },
+      "description": {
+        "text": "WORKSHOP 1",
+        "caption": "Video"
+      }
+    },
+    {
+      "gridSize": "p-one-third",
+      "action": {
+        "type": "popup",
+        "number": 2
+      },
+      "description": {
+        "text": "WORKSHOP 2",
+        "caption": "Image"
+      }
+    }
+  ]
+}
